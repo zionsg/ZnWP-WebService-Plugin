@@ -1,4 +1,4 @@
-##ZnWP WebService Plugin
+## ZnWP WebService Plugin
 
 This WordPress plugin provides a settings page and 2 simple methods for accessing a generic web service.
 
