@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: ZnWP WebService Plugin
-Plugin URI:  https://github.com/zionsg/ZnWP-WebService-Plugin
+Plugin URI:  https://github.com/zionsg/znwp-webservice-plugin
 Description: This plugin provides a settings page and 2 simple methods for accessing a generic web service.
 Author:      Zion Ng
-Author URI:  http://intzone.com/
+Author URI:  https://intzone.com/
 Version:     1.0.0
 */
 
