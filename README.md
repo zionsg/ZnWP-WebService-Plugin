@@ -4,11 +4,14 @@ This WordPress plugin provides a settings page and 2 simple methods for accessin
 
 ### Installation
 Steps
-  - Click the "Download Zip" button on the righthand side of this GitHub page
-  - Uncompress the zip file on your desktop
-  - Copy the `znwp_webservice_plugin` folder to your WordPress plugins folder
-    OR compress that folder and upload via the WordPress admin interface
-  - Activate the plugin
+- Click the "Download Zip" button on the righthand side of this GitHub page.
+- Remove the version/branch from the filename, i.e., rename the downloaded zip file to `znwp-webservice-plugin.zip`.
+- Do one of the following:
+  + Uncompress the zip file to a `znwp-webservice-plugin` and copy it to your WordPress plugins folder,
+    i.e. `wp-content/plugins`.
+  + Upload the zip file via the WordPress admin interface.
+- Uncompress the zip file on your desktop
+- Activate the plugin
 
 ### Usage
 The settings page can be accessed via the Settings link for the plugin on the Plugins page.
